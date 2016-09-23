@@ -24,7 +24,7 @@ This Social Network Metric defines the searching of specific Keyword into the Tw
 
 ## Example:
 1. **Input**: Uniprot
-2. **Query**: (Twitter API)[https://stream.twitter.com/1.1/statuses/filter.json?track=Uniprot]
+2. **Query**: https://stream.twitter.com/1.1/statuses/filter.json?track=Uniprot
 3. **Output**: Total tweets: 29
 
 > Information about Twitter stream API: https://dev.twitter.com/streaming/overview/request-parameters#track
