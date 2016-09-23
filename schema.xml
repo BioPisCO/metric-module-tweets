@@ -16,6 +16,6 @@
 		<rsc>database</rsc>
 		<rsc>software</rsc>
 	</resources>
-	  <repository>https://github.com/elixirhub/metrics-module-tweets.git</repository>
+	  <repository>https://github.com/BioPisCO/metric-module-tweets.git</repository>
 	</component>
 </components_metrics>
