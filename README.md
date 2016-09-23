@@ -9,7 +9,7 @@ This Social Network Metric defines the searching of specific Keyword into the Tw
 3. **Metric parameters**:
   1. **Query**: keyword or comma-separated words delivered on the stream.
   2. **Scope**: Includes all words. This will be over-inclusive.
-  3. **Output**: Tweets classification by language.
+  3. **Output**: Number of public tweets.
 
 4. **Library description**: 
   1. **hits.js**: return the list and count of different tweets languages where it has been found the query (in the public data flowing through Twitter):
