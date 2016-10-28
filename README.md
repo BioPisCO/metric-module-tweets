@@ -42,6 +42,9 @@ Twitter uses OAuth to provide authorized access to its API. It is possible get y
   2. npm
 
 ## Install library dependencies
+  
   `nmp install`
 
+## Install library dependencies
 
+  `node example/example-twit.js Uniprot`
