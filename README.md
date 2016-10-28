@@ -45,6 +45,6 @@ Twitter uses OAuth to provide authorized access to its API. It is possible get y
   
   `nmp install`
 
-## Install library dependencies
+## Command line execution
 
   `node example/example-twit.js Uniprot`
