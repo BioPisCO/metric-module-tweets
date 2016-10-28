@@ -34,7 +34,7 @@ Twitter uses OAuth to provide authorized access to its API. It is possible get y
 
 ## Git
 
-`https://github.com/BioPisCO/metrics-module-tweets.git`
+` git clone https://github.com/BioPisCO/metrics-module-tweets.git`
 
 ## Requirements
 
