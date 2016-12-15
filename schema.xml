@@ -3,7 +3,7 @@
 	<component>
 	 <name>metrics-module-tweets</name>
 	 <description>Topic spread</description>
-	 <authors>Artaza Haydee, Manuel Corpas, Rafael Jimenez</authors>
+	 <authors>Haydee Artaza, Manuel Corpas, Rafael Jimenez</authors>
 	 <input>
       <parameter>github</parameter>
     </input>
@@ -15,6 +15,6 @@
 	 <resources>
 		<rsc>software</rsc>
 	 </resources>
-	 <repository>https://github.com/elixirhub/metrics-module-tweets.git</repository>
+	 <repository>https://github.com/BioPisCO/metrics-module-tweets.git</repository>
 	</component>
 </components_metrics>
