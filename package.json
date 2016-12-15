@@ -2,8 +2,8 @@
   "name": "metrics-module-tweets",
   "version": "0.1.0",
   "description": "This Social Network Metric defines the searching of specific Keyword into the Twitter Community to measure the spreading of this topic",
-  "author": "Earlham-EBI",
-  "contributors": [{"name": "Haydee Artaza, Rafael Girado","email": "haydee.artaza@earlham.ac.uk,rafael.jimenez@elixir-europe.org"}],
+  "author": "TGAC-EBI",
+  "contributors": [{"name": "Haydee Artaza, Rafael Girado","email": "haydee.artaza@tgac.ac.uk,rafael.jimenez@elixir-europe.org"}],
   "keywords": [
 	  "metrics",
 	  "Social media"
@@ -14,5 +14,5 @@
   },
   "subdomain": "metrics",
   "analyze": true,
-  "license": "Earlham"
+  "license": "TGAC"
 }
