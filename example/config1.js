@@ -1,6 +1,6 @@
 module.exports = {
-    consumer_key: '8LxBnmnYrjo8smSW83fvCcUPq'
-  , consumer_secret: 'pxC3kuK7dN1EVZD9lW5VKTc71j53DLcnZvay9DE7xT0y2GO8uH'
-  , access_token: '3301871662-HXBC4LQWhGBYZGzSXUYuwVZJD4yx2dZpETIJ8Q7'
-  , access_token_secret: 'hQr1DLKpghBFShk2nbY6ekHD68PVM8WZpzArryY4Nhmj4'
+    consumer_key: 'mJhSea8CpQOzaUzU72vwdXMgU'
+  , consumer_secret: 'eGw6uhwHISO9jrEq4pusmsW1sKyCMDHOSmpgVi4JmGaGkSwKWi'
+  , access_token: '3047298988-3OzjxwXU52Hbg2ts0mqu4wI9tPCGOUHE0ldmjH5'
+  , access_token_secret: '7nsQ0fPAtcXLiNtPnq2oP0l574803E4y7UQ85rpJtRHHq'
 }
