@@ -6,7 +6,7 @@ var file_output = 'result_twitter.txt';
 var encoding = 'utf8';
 
 var keyword = process.argv[2]; //'swissprot,swiss prot,swiss-prot,UniProtKB,uniprot' 
-var timescan = 60; //seconds
+var timescan = 3000; //seconds
 
 
 console.log('Running twitter metric');
